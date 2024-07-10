@@ -1,0 +1,8 @@
+### GET BRASIL API
+GET https://brasilapi.com.br/api/cep/v1/03276010
+Accept: application/json
+
+### GET VIA CEP
+GET  http://viacep.com.br/ws/03276010/json/
+Accept: application/json
+
